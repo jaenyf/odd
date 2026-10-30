@@ -9,9 +9,10 @@
 </p>
 
 
-
 ## What is it? That's odd!
 **ODD stands for Open Direct Democracy. That's a bit odd, just as each of us is.**
+
+*This is both an experiment and an attempt to determine whether a form of democratic collaboration, originating in the software sector, can transcend its limitations and shape the democratic life of communities—whether local, regional, or national.*
 
 The goal of ODD is to provide a solution that acts as the core of a true and pure democracy:
 - Promoting citizen membership & participation
