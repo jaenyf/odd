@@ -86,6 +86,9 @@ This principle could serve as the foundation for establishing a democratic syste
     The feedback loop represents the citizens' continuous ability to monitor, evaluate and correct the execution of their democratic decisions.
 
 
+# Constitution
+A draft constitution is currently being developed and [is available here](./constitution/constitutional-framework.md).
+
 # Contributing or collaborating to ODD
 Contributions and collaboration are strongly encouraged! Since ODD is currently in its early stages, [let's first discuss together how to develop or modify it](https://github.com/jaenyf/odd/discussions)!
 
