@@ -45,46 +45,45 @@ This principle could serve as the foundation for establishing a democratic syste
 ## Fundamental architectural principle
 ### The ODD governance model
 **There is no state, or any concentrated power, because the citizens are the state.**
+```text
 
-                 ┌──────────────────────────────┐
-                 │           CITIZENS           │
-            ┌───▶│                              │
-            │    │  Equal political rights      │
-            │    │  and sovereignty             │
-            │    └──────────────┬───────────────┘
-            │                   │
-            │                   ▼
-            │    ┌──────────────────────────────┐
-            │    │  DIRECT DEMOCRATIC PROCESS   │
-            │    │                              │
-            │    │  Proposals · Discussion      │
-            │    │  Amendments · Voting         │
-            │    └──────────────┬───────────────┘
-            │                   │
-            │                   ▼
-            │    ┌──────────────────────────────┐
-            │    │     PUBLIC ADMINISTRATION    │
-            │    │                              │
-            │    │  Execution · Services        │
-            │    │  Implementation              │
-            │    └───────────────┬──────────────┘
-            │                  ▲ │
-            │                  │ ▼
-            │    ┌─────────────┬────────────────┐
-            │    │       CITIZEN OVERSIGHT      │
-            │    │                              │
-            │    │  Auditing · Accountability   │
-            │    │  Correction · Replacement    │
-            │    └──────────────┬───────────────┘
-            │                   │
-            │                   │
-            │                   └───────────────┐
-            │                                   │
-            │                                   ▼
-            └─────────────────────────────── CITIZENS
-    The administration serves the citizens; it does not govern them.
-    The feedback loop represents the citizens' continuous ability to monitor, evaluate and correct the execution of their democratic decisions.
-
+                  +------------------------------+
+                  |           CITIZENS           |
+          +------>|                              |
+          |       |  Equal political rights      |
+          |       |  and sovereignty             |
+          |       +--------------+---------------+
+          |                      |
+          |                      v
+          |       +------------------------------+
+          |       |  DIRECT DEMOCRATIC PROCESS   |
+          |       |                              |
+          |       |  Proposals - Discussion      |
+          |       |  Amendments - Voting         |
+          |       +--------------+---------------+
+          |                      |
+          |                      v
+          |       +------------------------------+
+          |       |     PUBLIC ADMINISTRATION    |
+          |       |                              |
+          |       |  Execution - Services        |
+          |       |  Implementation              |
+          |       +--------------+---------------+
+          |                     ^ |
+          |                     | v
+          |       +------------------------------+
+          |       |       CITIZEN OVERSIGHT      |
+          |       |                              |
+          |       |  Auditing - Accountability   |
+          |       |  Correction - Replacement    |
+          |       +--------------+---------------+
+          |                      |
+          |                      |
+          |                      |
+          +<---------------------+
+    The administration serves the citizens; it does not govern them.  
+    The feedback loop represents the citizens' continuous ability to monitor, evaluate and correct the execution of their democratic decisions.  
+```
 
 # Constitution
 A draft constitution is currently being developed and [is available here](./constitution/constitutional-framework.md).
