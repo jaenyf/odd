@@ -42,6 +42,49 @@ This principle could serve as the foundation for establishing a democratic syste
 - There are no longer any kings, presidents, ministers, members of Congress, or people who dangerously concentrate a significant amount of power to the detriment of the people. Only citizens, only the people. The people are the state, the power, and the citizens all together.
 - Its structure is more organic and can evolve organically. Dysfunctions are naturally eliminated through a constant and fluid democratic process.
 
+## Fundamental architectural principle
+### The ODD governance model
+**There is no state, or any concentrated power, because the citizens are the state.**
+
+                 ┌──────────────────────────────┐
+                 │           CITIZENS           │
+            ┌───▶│                              │
+            │    │  Equal political rights      │
+            │    │  and sovereignty             │
+            │    └──────────────┬───────────────┘
+            │                   │
+            │                   ▼
+            │    ┌──────────────────────────────┐
+            │    │  DIRECT DEMOCRATIC PROCESS   │
+            │    │                              │
+            │    │  Proposals · Discussion      │
+            │    │  Amendments · Voting         │
+            │    └──────────────┬───────────────┘
+            │                   │
+            │                   ▼
+            │    ┌──────────────────────────────┐
+            │    │     PUBLIC ADMINISTRATION    │
+            │    │                              │
+            │    │  Execution · Services        │
+            │    │  Implementation              │
+            │    └───────────────┬──────────────┘
+            │                  ▲ │
+            │                  │ ▼
+            │    ┌─────────────┬────────────────┐
+            │    │       CITIZEN OVERSIGHT      │
+            │    │                              │
+            │    │  Auditing · Accountability   │
+            │    │  Correction · Replacement    │
+            │    └──────────────┬───────────────┘
+            │                   │
+            │                   │
+            │                   └───────────────┐
+            │                                   │
+            │                                   ▼
+            └─────────────────────────────── CITIZENS
+    The administration serves the citizens; it does not govern them.
+    The feedback loop represents the citizens' continuous ability to monitor, evaluate and correct the execution of their democratic decisions.
+
 
 # Contributing or collaborating to ODD
 Contributions and collaboration are strongly encouraged! Since ODD is currently in its early stages, [let's first discuss together how to develop or modify it](https://github.com/jaenyf/odd/discussions)!
