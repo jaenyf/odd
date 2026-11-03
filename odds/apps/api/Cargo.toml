@@ -1,0 +1,9 @@
+[package]
+name = "api"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+tako-rs = "2.6.0"
+tokio = "1.54.1"
